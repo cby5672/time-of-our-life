@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/time-of-our-life/static/css/main.6b53d8a5.css",
+    "main.css": "/time-of-our-life/static/css/main.4748cfde.css",
     "main.js": "/time-of-our-life/static/js/main.0f699728.js",
     "static/media/main_poster_3.png": "/time-of-our-life/static/media/main_poster_3.9ebdb14263992e2bacb1.png",
     "static/media/balloons.png": "/time-of-our-life/static/media/balloons.0fcf79dc0f673c94f252.png",
@@ -31,11 +31,11 @@
     "static/media/unholy.JPG": "/time-of-our-life/static/media/unholy.b8ffccc27c9457c440fb.JPG",
     "index.html": "/time-of-our-life/index.html",
     "static/media/icon_arrowDown.svg": "/time-of-our-life/static/media/icon_arrowDown.50bb85a1b2b41768d3af.svg",
-    "main.6b53d8a5.css.map": "/time-of-our-life/static/css/main.6b53d8a5.css.map",
+    "main.4748cfde.css.map": "/time-of-our-life/static/css/main.4748cfde.css.map",
     "main.0f699728.js.map": "/time-of-our-life/static/js/main.0f699728.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b53d8a5.css",
+    "static/css/main.4748cfde.css",
     "static/js/main.0f699728.js"
   ]
 }
