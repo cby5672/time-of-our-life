@@ -49,7 +49,7 @@ const Information = () => {
                 <dl className="floor">
                     <dt><img src={lim} /></dt>
                     <dd>
-                        <div className='member'>임우찬<span>#피아노 #힙찔이</span></div>
+                        <div className='member'>임우찬<span>#피아노 #힙찔이 #유잼을찾아서</span></div>
                     </dd>
                 </dl>
                 <dl className="floor">
