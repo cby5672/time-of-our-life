@@ -31,19 +31,19 @@ const Information = () => {
                 <dl className="floor">
                     <dt><img src={kimVocal} /></dt>
                     <dd>
-                        <div className='member'>김민주<span>#보컬 #피아노 #연구소막내온탑</span><span>#카페인충전필수 #._.b</span></div>
+                        <div className='member'>김민주<span>#보컬 #피아노 #연구소막내탈출</span></div>
                     </dd>
                 </dl>
                 <dl className="floor">
                     <dt><img src={kimGuitar} /></dt>
                     <dd>
-                        <div className='member'>김하정<span>#클린이 #기린이</span></div>
+                        <div className='member'>김하정<span>(asis) #클린이 #기린이</span><span>(tobe) #클태기 #기타 #파워코드전문</span></div>
                     </dd>
                 </dl>
                 <dl className="floor">
                     <dt><img src={lee} /></dt>
                     <dd>
-                        <div className='member'>이민수<span>#보컬 #땜빵 #<span style={{ fontFamily: 'sans-serif' }}>背神</span></span></div>
+                        <div className='member'>이민수<span>#보컬 #직변 #boomboombass</span></div>
                     </dd>
                 </dl>
                 <dl className="floor">

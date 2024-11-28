@@ -60,7 +60,7 @@ function Place() {
             <div {...animatedItem[1]} className="address">
                 <span>플렉스라운지</span>
                 <span>서울특별시 마포구 서교동 372-5</span>
-                <a href={'tel:02-545-7239'}>02-545-7239</a>
+                <a href={'tel:010-2207-0100 '}>010-2207-0100</a>
             </div>
             <div {...animatedItem[2]}>
                 <div className="map" ref={container}></div>

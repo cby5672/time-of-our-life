@@ -25,9 +25,9 @@ const Family = () => {
                             <a href="https://www.youtube.com/channel/UCtjraGBbxmEao9kWmcopVFg/featured">
                                 <img alt="youtube-map" className="map-icon" id="youtube-logo" src={youtubeLogo} />
                             </a>
-                            <a href="https://www.instagram.com/ggs_theperformers?igsh=MWkxaDI3ZzE4ejZ2aA==">
+                            {/* <a href="https://www.instagram.com/ggs_theperformers?igsh=MWkxaDI3ZzE4ejZ2aA==">
                                 <img alt="instagram-image" className="map-icon" id="instagram-logo" src={instaLogo} />
-                            </a>
+                            </a> */}
                         </div>
                     </div>
                 </div>

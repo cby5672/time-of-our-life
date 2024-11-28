@@ -14,7 +14,7 @@ const PlayList = () => {
     const [section, secSection] = useState(1);
 
     function playList() {
-        window.location.href = section === 1 ? 'https://www.youtube.com/playlist?list=PLUum4CXJb9mC78KTt_6jpgXjQ6R0Xhl9H' : "https://music.youtube.com/playlist?list=PLUum4CXJb9mDpKsDhRENI2efpXZoRY8yY&si=cZy4oZVLYTcOC0Ju";
+        window.location.href = section === 1 ? 'https://youtube.com/playlist?list=PLUum4CXJb9mBP0cwbQfEVgTjTR-w2WhK2&si=XZktu_rutveNlphA' : "https://youtube.com/playlist?list=PLUum4CXJb9mD1cwngBRwB4bQu-wcEuwE_&si=heOc4xI9D8UmrF8K";
     }
 
     return (
